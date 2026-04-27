@@ -1,6 +1,6 @@
 file_format: "1"
-id: charybdis
-name: Charybdis
+id: charybdis_nano35
+name: Charybdis Nano35
 type: shield
 url: https://github.com/Bastardkb/Charybdis/
 requires: [pro_micro]
@@ -9,5 +9,5 @@ features:
   - pointer
   - underglow
 siblings:
-  - charybdis_left
-  - charybdis_right
+  - charybdis_nano35_left
+  - charybdis_nano35_right

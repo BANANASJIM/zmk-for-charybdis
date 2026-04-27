@@ -1,0 +1,5 @@
+config SHIELD_CHARYBDIS_NANO35_LEFT
+    def_bool $(shields_list_contains,charybdis_nano35_left)
+
+config SHIELD_CHARYBDIS_NANO35_RIGHT
+    def_bool $(shields_list_contains,charybdis_nano35_right)
